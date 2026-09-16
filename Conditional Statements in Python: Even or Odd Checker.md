@@ -25,3 +25,4 @@ else:
 
 
 ## Result
+Thus, the given program successfully determines whether the entered number is even or odd and displays the corresponding output.
